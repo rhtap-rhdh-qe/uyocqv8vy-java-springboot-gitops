@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: uyocqv8vy-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/uyocqv8vy-java-springboot
